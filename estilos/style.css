@@ -18,19 +18,33 @@ body {
 main {
     background-color: aquamarine;
     display: inline-block;
-    width: ;
-    height: 85vh;
-    margin: auto;
+    width: 100vw;
+    height: 100vh;
+}
+
+section#login {
+    background-color: azure;
+    width: 90vw;
+    height: 90vh;
+
 }
 
 section > div#imagem > img {
     display: block;
     width: 200px;
-    height: 300px;
+    height: 250px;
     padding: 0px;
     margin: auto;
 }
 
 section > div#formulario {
+    display: block;
     background-color: white;
+    width: 200px;
+    height: 250px;
+    margin: auto;
+}
+
+div#formulario {
+    
 }
