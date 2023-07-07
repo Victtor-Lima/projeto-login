@@ -26,4 +26,15 @@ section#login {
     background-color: white;
     width: 250px;
     height: 500px;
+    border-radius: 20px;
+}
+
+div#imagem > img {
+    width: 250px;
+    height: 250px;
+}
+
+div#formulario > h1 {
+    font-weight: bold;
+    text-align: center;
 }
