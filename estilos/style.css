@@ -16,6 +16,7 @@ main {
 
 section > div#imagem > img {
     width: 200px;
-    height: px;
+    height: 300px;
+    margin: auto;
 
 }
