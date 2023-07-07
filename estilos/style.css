@@ -44,8 +44,6 @@ section > div#formulario {
     width: 200px;
     height: 250px;
     margin: auto;
-}
-
-div#formulario {
-    
+    border-radius: 0px 0px 15px 15px;
+    padding-bottom: ;
 }
