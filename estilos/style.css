@@ -39,7 +39,7 @@ section#login {
 
 div#imagem > img {
     width: 250px;
-    height: 250px;
+    height: 200px;
     border-radius: 20px 20px 0px 0px;
 }
 
@@ -54,4 +54,8 @@ div#formulario > p {
     font-size: 0.9em;
     text-align: justify;
     margin: 10px;
+}
+
+div#formulario > form{
+
 }
