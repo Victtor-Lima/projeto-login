@@ -38,7 +38,8 @@ section#login {
     margin: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.481);
 
-    transition: width 1s, height 1s;
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
 section#login > div#imagem {
@@ -50,7 +51,7 @@ section#login > div#imagem {
     background-position: center center;
 }
 
-section#longin > div#formulario {
+section#login > div#formulario {
     display: block;
     padding: 10px;
 }
