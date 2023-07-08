@@ -75,4 +75,5 @@ div#formulario > form > p > input.submit {
     color: white;
     height: 40px;
     width: 230px;
+    border: 0px;
 }
