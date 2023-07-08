@@ -60,3 +60,10 @@ div#formulario > form {
     margin: 10px;
 }
 
+div#formulario > form > p > label {
+    background-color: #5f2c82;
+}
+
+div#formulario > form > p > input {
+    background-color: #49a09d;
+}
