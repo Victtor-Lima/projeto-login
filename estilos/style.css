@@ -37,6 +37,8 @@ section#login {
     border-radius: 20px;
     margin: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.481);
+
+    transition: width 1s, height 1s;
 }
 
 section#login > div#imagem {
@@ -48,6 +50,13 @@ section#login > div#imagem {
     background-position: center center;
 }
 
+section#longin > div#formulario {
+    display: block;
+    padding: 10px;
+}
+
+
+/*
 div#formulario > h1 {
     display: block;
     font-size: 1.6em;
@@ -59,10 +68,6 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.9em;
     text-align: justify;
-    margin: 10px;
-}
-
-div#formulario > form {
     margin: 10px;
 }
 
@@ -94,3 +99,4 @@ div#formulario > form > p > input.reset {
     width: 230px;
     border: 0.2px;
 }
+*/
