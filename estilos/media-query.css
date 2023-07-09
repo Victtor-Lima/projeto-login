@@ -15,12 +15,16 @@
         float: left;
         width: 30%;
         height: 100%;
-
     }
 
     section#login > div#formulario {
         float: right;
         width: 70%;
+    }
+
+    div#formulario > p {
+        font-size: 1.1em;
+        margin: 15px 0px;
     }
 }
 
