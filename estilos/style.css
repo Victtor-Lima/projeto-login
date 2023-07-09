@@ -142,7 +142,8 @@ form > div > a.botao > span {
     color: #2d6462;
 }
 
-@media screen and (orientation: landscape) and (max-width: 750px){
+@media screen and (max-width: 750px) and (orientation: landscape) {
+
     body {
         background-image: #5f2c82;
         }
